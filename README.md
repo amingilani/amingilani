@@ -5,7 +5,14 @@
 █   █ █▄   ▄▀ ███▄ ███▄ ▀████ 
    █  ▀███▀       ▀    ▀      
   ▀                           
-                              
+
+Thanks for dropping by! My name's Amin, I work with:
+
+• Rails       • Cryptography  • Cryptocurrency
+• Docker      • Radio         • Startups
+• Ract        • Linux         • Security
+
+...and much more!
 ```
 
 

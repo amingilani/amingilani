@@ -14,7 +14,9 @@ Thanks for dropping by! My name's Amin, I work with:
 
 ...and much more!
 
-Reach out to me at hubpage@gilani.me
+Reach out to me at github@gilani.me
+
+Or, let's have a virtual ☕️! Hmu: amingilani.youcanbook.me
 ```
 
 

@@ -16,7 +16,8 @@ Thanks for dropping by! My name's Amin, I work with:
 
 Reach out to me at github@gilani.me
 
-Or, let's have a virtual ☕️! Hmu: amingilani.youcanbook.me
+Or, let's have a virtual ☕️ and talk about anything that's on your mind!
+Hmu: amingilani.youcanbook.me
 ```
 
 
